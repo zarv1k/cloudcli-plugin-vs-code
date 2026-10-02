@@ -1,0 +1,13 @@
+{
+  "name": "vs-code",
+  "displayName": "VS Code",
+  "version": "0.1.0",
+  "description": "Opens the selected CloudCLI project in a browser-based VS Code (code-server) tab.",
+  "author": "zarv1k",
+  "icon": "icon.svg",
+  "type": "module",
+  "slot": "tab",
+  "entry": "dist/index.js",
+  "server": "dist/server.js",
+  "permissions": []
+}

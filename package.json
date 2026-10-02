@@ -1,0 +1,15 @@
+{
+  "name": "cloudcli-plugin-vs-code",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "CloudCLI plugin that opens the selected project in a browser-based VS Code",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@types/node": "^20.0.0"
+  }
+}
